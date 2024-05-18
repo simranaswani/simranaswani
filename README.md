@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](./[Your header image])
+![Header](./github-header-image-2.png)
 <!--
 **simranaswani/simranaswani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
